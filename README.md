@@ -1,56 +1,53 @@
-<h1 align="center">👋 Hi, I'm Shiro!</h1>
-<p align="center">Full-Stack Developer | UI/UX Designer | Valorant Warrior 🎯</p>
+<h1 align="center">Hey, I'm Shiro 👋</h1>
+<p align="center">🎨 Designer | 💻 Developer | 🎮 Valorant Warrior</p>
 
 ---
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
-      
-### 💻 About Me
-- 🔭 I’m currently working with Laravel + React (TS)
-- 🎨 UI/UX Designer using Figma + Adobe Suite
-- 🔍 QA Tester + Jasper Reports explorer
-- 🎮 Gamer on the side (yep, Valorant included)
-
+    <td align="center" width="33%">
+      <strong>🧑‍💻 About Me</strong><br/>
+      <sub>
+        Passionate Full-stack Dev based in PH.  
+        Codes in Laravel + React + TS.  
+        Lives for UI/UX polish and smooth dev flows.
+      </sub>
     </td>
-    <td width="50%">
-      
-### 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristine-joy-san-juan/)  
-[![Discord](https://img.shields.io/badge/Discord-%40bughunter.exe-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com)  
-📧 Email: `shiro@example.com`  
-
+    <td align="center" width="33%">
+      <strong>🛠 Tech Stack</strong><br/>
+      <sub>
+        HTML, CSS, JS, TS, React, Laravel, Tailwind  
+        MySQL, JasperReports, Git  
+        Figma, Photoshop, Lightroom, InDesign
+      </sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>📫 Contact</strong><br/>
+      <a href="https://www.linkedin.com/in/cristine-joy-san-juan/">LinkedIn</a><br/>
+      Discord: <code>bughunter.exe</code><br/>
+      Email: <code>shiro@example.com</code>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 🧠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,laravel,mysql,figma,photoshop,lightroom,indesign" />
-  <br />
-  <sub>Also using: Jasper Reports, Git, Trello, VSCode</sub>
-</div>
-
----
-
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      
-### 🎨 Tools I Use
-Figma, Photoshop, InDesign, Lightroom, Jasper Reports
-
+    <td align="center" width="50%">
+      <strong>🎮 Fun Fact</strong><br/>
+      <sub>
+        I debug code by day and  
+        **top frag** in Valorant by night.  
+        Peak: immortal in pushing Git commits 😅
+      </sub>
     </td>
-    <td align="center">
-      
-### 🧩 Fun Fact
-I debug by day and **top frag** by night 💥  
-Valorant is basically my version of Stack Overflow.
-
+    <td align="center" width="50%">
+      <strong>🚀 Projects</strong><br/>
+      <sub>
+        Coming soon... <br/>
+        (shoe store, music site, school portal, more!)
+      </sub>
     </td>
   </tr>
 </table>
@@ -58,5 +55,11 @@ Valorant is basically my version of Stack Overflow.
 ---
 
 <div align="center">
-  <sup>Made with 💻 + 🎨 by Shiro • 2025</sup>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,laravel,mysql,figma,photoshop,lightroom,indesign" />
 </div>
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ and a lot of coffee. — Shiro (2025)</sub>
+</p>
