@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Shiro!
+A passionate Full-stack Developer and Gamer from the Philippines
 
-<!--
-**STUDYINGSHIRO/STUDYINGSHIRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: shiro@example.com  
+- 📍 I am based in Metro Manila, Philippines  
+- ⚡ Fun fact: I love motorcycle rides and building beautiful UI!
 
-Here are some ideas to get you started:
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,figma,photoshop,python,react" />
+</p>
