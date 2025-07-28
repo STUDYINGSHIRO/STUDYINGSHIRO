@@ -38,7 +38,7 @@ Off the screen? Catch me riding motorcycles 🏍️ or clutching rounds in Valor
 
 ---
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,laravel,mysql,figma,photoshop,lightroom,indesign" />
 </p>
 
