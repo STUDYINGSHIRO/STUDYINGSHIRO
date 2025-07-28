@@ -1,84 +1,46 @@
-<h1 align="center">✨ Shiro's GitHub Bento Board</h1>
+<h1 align="center">✨ Shiro</h1>
 <p align="center">Designer. Developer. Debugger. Duelist.</p>
 
-<br/>
+---
 
-<table>
-  <tr>
-    <td align="center" width="50%" style="vertical-align:top">
+### 🧑‍💻 About Me
+Hi, I'm **Shiro** — a full-stack developer & UI/UX designer from the Philippines 🇵🇭. I love crafting clean interfaces using **Laravel**, **React**, and **TypeScript**.  
+Off the screen? Catch me riding motorcycles 🏍️ or clutching rounds in Valorant 🎮.
 
-<h3>🧑‍💻 About Me</h3>
-<p align="left">
-  I'm Shiro — a passionate full-stack developer and UI/UX designer from the Philippines 🇵🇭. I love building clean interfaces with Laravel, React, and TypeScript. Outside coding, I'm either riding motorcycles 🏍️ or top fragging in Valorant 🎮.
-</p>
+---
 
-</td>
-    <td align="center" width="50%" style="vertical-align:top">
+### 🛠️ Tech Stack
+- HTML, CSS, JavaScript, TypeScript  
+- Laravel, React, Tailwind  
+- Figma, Photoshop, Lightroom, InDesign  
+- MySQL, Jasper Reports  
 
-<h3>🛠️ Tech Stack</h3>
-<p align="left">
-  • HTML, CSS, JS, TypeScript<br/>
-  • Laravel, React, Tailwind<br/>
-  • Figma, Adobe Photoshop, InDesign, Lightroom<br/>
-  • MySQL, Jasper Reports<br/>
-</p>
+---
 
-</td>
-  </tr>
-</table>
+### 📬 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristine-joy-san-juan/)  
+- 💬 Discord: `bughunter.exe`  
+- 📧 Email: `workingshiro@gmail.com`
 
-<br/>
+---
 
-<table>
-  <tr>
-    <td align="center" width="50%" style="vertical-align:top">
+### 🚀 Projects
+- 🛍️ Shoe E-Commerce (Laravel + Livewire)  
+- 🎵 Filipino Music Archive  
+- 🎓 School Portal System  
+- 🛵 Motor Accessories Shop  
 
-<h3>📬 Contact</h3>
-<p align="left">
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/cristine-joy-san-juan/">Cristine Joy San Juan</a><br/>
-  <strong>Discord:</strong> <code>bughunter.exe</code><br/>
-  <strong>Email:</strong> <code>shiro@example.com</code>
-</p>
+---
 
-</td>
-    <td align="center" width="50%" style="vertical-align:top">
+### 🎮 Fun Fact
+> I debug bugs and headshot enemies.  
+> Valorant is my second IDE.
 
-<h3>🎮 Fun Fact</h3>
-<p align="left">
-  I debug bugs and headshots.<br/>
-  Valorant is my second IDE.<br/>
-  FPS peak = productivity peak.
-</p>
-
-</td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center">
-
-<h3>🚀 Projects</h3>
-<p align="left">
-  🛍️ Shoe E-Commerce (Laravel + Livewire)<br/>
-  🎵 Filipino Music Archive Site<br/>
-  🎓 School Portal System<br/>
-  🛵 Motor Accessories Online Shop<br/>
-</p>
-
-</td>
-  </tr>
-</table>
-
-<br/>
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,laravel,mysql,figma,photoshop,lightroom,indesign" />
 </p>
-
----
 
 <p align="center">
   <sub>Made with ❤️ + ☕ + 🎮 by Shiro — 2025</sub>
